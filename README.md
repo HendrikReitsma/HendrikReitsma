@@ -6,7 +6,9 @@ My background is in food technology, process engineering and data science, so I 
 
 [Flowmeter correction project](https://github.com/HendrikReitsma/industrial-sensor-validation/)
 
-[Advanced Process Control simulation](https://github.com/HendrikReitsma/advanced-process-control)
+Advanced Process Control simulation
+[github](https://github.com/HendrikReitsma/advanced-process-control)
+[streamlit](https://advanced-process-control.streamlit.app/)
 
 
 [LinkedIn](https://www.linkedin.com/in/hendrik-reitsma-80481817b/)
